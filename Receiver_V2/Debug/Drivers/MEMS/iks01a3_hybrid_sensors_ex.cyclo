@@ -1,0 +1,3 @@
+../Drivers/MEMS/iks01a3_hybrid_sensors_ex.c:56:9:IKS01A3_HYBRID_SENSOR_Get_DRDY_Status	1
+../Drivers/MEMS/iks01a3_hybrid_sensors_ex.c:97:9:IKS01A3_HYBRID_SENSOR_Read_Register	1
+../Drivers/MEMS/iks01a3_hybrid_sensors_ex.c:131:9:IKS01A3_HYBRID_SENSOR_Write_Register	1

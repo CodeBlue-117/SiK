@@ -1,0 +1,12 @@
+../SubGHz_Phy/App/subghz_phy_app.c:929:13:OnledEvent	8	static
+../SubGHz_Phy/App/subghz_phy_app.c:650:13:OnRxError	8	static
+../SubGHz_Phy/App/subghz_phy_app.c:637:13:OnRxTimeout	8	static
+../SubGHz_Phy/App/subghz_phy_app.c:624:13:OnTxTimeout	8	static
+../SubGHz_Phy/App/subghz_phy_app.c:480:13:OnTxDone	8	static
+../SubGHz_Phy/App/subghz_phy_app.c:499:13:OnRxDone	24	static
+../SubGHz_Phy/App/subghz_phy_app.c:199:6:SubghzApp_Init	72	static
+../SubGHz_Phy/App/subghz_phy_app.c:298:6:radio_send_wrapper	16	static
+../SubGHz_Phy/App/subghz_phy_app.c:854:6:PingPong_Process	8	static
+../SubGHz_Phy/App/subghz_phy_app.c:667:6:ProcessData	40	static
+../SubGHz_Phy/App/subghz_phy_app.c:314:6:encodeDeviceId	24	static
+../SubGHz_Phy/App/subghz_phy_app.c:332:6:broadcastDeviceId	24	static

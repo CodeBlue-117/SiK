@@ -1,0 +1,8 @@
+C:/Users/Jake P/Documents/GitHub/StormEq/CAB_BOX_PCB_CODE_V2/Core/Src/usart_if.c:113:25:vcom_Init	1
+C:/Users/Jake P/Documents/GitHub/StormEq/CAB_BOX_PCB_CODE_V2/Core/Src/usart_if.c:128:25:vcom_DeInit	1
+C:/Users/Jake P/Documents/GitHub/StormEq/CAB_BOX_PCB_CODE_V2/Core/Src/usart_if.c:162:25:vcom_Trace_DMA	1
+C:/Users/Jake P/Documents/GitHub/StormEq/CAB_BOX_PCB_CODE_V2/Core/Src/usart_if.c:174:25:vcom_ReceiveInit	3
+C:/Users/Jake P/Documents/GitHub/StormEq/CAB_BOX_PCB_CODE_V2/Core/Src/usart_if.c:151:6:vcom_Trace	1
+C:/Users/Jake P/Documents/GitHub/StormEq/CAB_BOX_PCB_CODE_V2/Core/Src/usart_if.c:210:6:vcom_Resume	3
+C:/Users/Jake P/Documents/GitHub/StormEq/CAB_BOX_PCB_CODE_V2/Core/Src/usart_if.c:231:6:HAL_UART_TxCpltCallback	4
+C:/Users/Jake P/Documents/GitHub/StormEq/CAB_BOX_PCB_CODE_V2/Core/Src/usart_if.c:258:6:HAL_UART_RxCpltCallback	11

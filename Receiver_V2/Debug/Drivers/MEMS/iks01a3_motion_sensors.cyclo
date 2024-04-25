@@ -1,0 +1,15 @@
+../Drivers/MEMS/iks01a3_motion_sensors.c:1558:16:LSM6DSO_0_Probe	10
+../Drivers/MEMS/iks01a3_conf.h:49:16:Custom_I2C_Init	1
+../Drivers/MEMS/iks01a3_motion_sensors.c:222:9:IKS01A3_MOTION_SENSOR_Init	11
+../Drivers/MEMS/iks01a3_motion_sensors.c:1112:9:IKS01A3_MOTION_SENSOR_DeInit	3
+../Drivers/MEMS/iks01a3_motion_sensors.c:1138:9:IKS01A3_MOTION_SENSOR_GetCapabilities	3
+../Drivers/MEMS/iks01a3_motion_sensors.c:1164:9:IKS01A3_MOTION_SENSOR_ReadID	3
+../Drivers/MEMS/iks01a3_motion_sensors.c:1193:9:IKS01A3_MOTION_SENSOR_Enable	4
+../Drivers/MEMS/iks01a3_motion_sensors.c:1232:9:IKS01A3_MOTION_SENSOR_Disable	4
+../Drivers/MEMS/iks01a3_motion_sensors.c:1272:9:IKS01A3_MOTION_SENSOR_GetAxes	4
+../Drivers/MEMS/iks01a3_motion_sensors.c:1312:9:IKS01A3_MOTION_SENSOR_GetAxesRaw	4
+../Drivers/MEMS/iks01a3_motion_sensors.c:1352:9:IKS01A3_MOTION_SENSOR_GetSensitivity	4
+../Drivers/MEMS/iks01a3_motion_sensors.c:1393:9:IKS01A3_MOTION_SENSOR_GetOutputDataRate	4
+../Drivers/MEMS/iks01a3_motion_sensors.c:1433:9:IKS01A3_MOTION_SENSOR_GetFullScale	4
+../Drivers/MEMS/iks01a3_motion_sensors.c:1474:9:IKS01A3_MOTION_SENSOR_SetOutputDataRate	4
+../Drivers/MEMS/iks01a3_motion_sensors.c:1514:9:IKS01A3_MOTION_SENSOR_SetFullScale	4

@@ -1,0 +1,4 @@
+C:/Users/Jake P/Documents/GitHub/StormEq/CAB_BOX_PCB_CODE_V2/SMBus_PMBus_Stack/Target/smbus.c:40:6:MX_STACK_SMBUS_Init	8	static
+C:/Users/Jake P/Documents/GitHub/StormEq/CAB_BOX_PCB_CODE_V2/SMBus_PMBus_Stack/Target/smbus.c:88:19:STACK_SMBUS_ExtendCommand	8	static
+C:/Users/Jake P/Documents/GitHub/StormEq/CAB_BOX_PCB_CODE_V2/SMBus_PMBus_Stack/Target/smbus.c:159:19:STACK_SMBUS_ExecuteCommand	8	static
+C:/Users/Jake P/Documents/GitHub/StormEq/CAB_BOX_PCB_CODE_V2/SMBus_PMBus_Stack/Target/smbus.c:228:13:MX_SMBUS_Error_Check	0	static

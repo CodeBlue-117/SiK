@@ -1,0 +1,4 @@
+C:/Users/Jake P/Documents/GitHub/StormEq/CAB_BOX_PCB_CODE_V2/Core/Src/i2c.c:31:6:MX_I2C1_Init	8	static
+C:/Users/Jake P/Documents/GitHub/StormEq/CAB_BOX_PCB_CODE_V2/Core/Src/i2c.c:74:6:MX_I2C3_Init	8	static
+C:/Users/Jake P/Documents/GitHub/StormEq/CAB_BOX_PCB_CODE_V2/Core/Src/i2c.c:117:6:HAL_I2C_MspInit	120	static
+C:/Users/Jake P/Documents/GitHub/StormEq/CAB_BOX_PCB_CODE_V2/Core/Src/i2c.c:202:6:HAL_I2C_MspDeInit	8	static
